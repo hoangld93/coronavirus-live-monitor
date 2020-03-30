@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>is_use_my_server</key>
+        <value>false</value>
+
+        <key>data</key>
+        <value>
+            {
+            "features": [
+            {
+            "attributes": {
+            "Confirmed": 64287,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 36,
+            "Province_State": "Hubei",
+            "Recovered": 16748,
+            "Lat": 30.9756403482891,
+            "Long_": 112.270692167452,
+            "Deaths": 2495
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1345,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 56,
+            "Province_State": "Guangdong",
+            "Recovered": 786,
+            "Lat": 23.3417337092088,
+            "Long_": 113.424401710676,
+            "Deaths": 6
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1271,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 5,
+            "Province_State": "Henan",
+            "Recovered": 943,
+            "Lat": 33.8820061472366,
+            "Long_": 113.613964115943,
+            "Deaths": 19
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1205,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 66,
+            "Province_State": "Zhejiang",
+            "Recovered": 782,
+            "Lat": 29.1831892798285,
+            "Long_": 120.093412774886,
+            "Deaths": 1
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1016,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 73,
+            "Province_State": "Hunan",
+            "Recovered": 731,
+            "Lat": 27.6104072903766,
+            "Long_": 111.708835644484,
+            "Deaths": 4
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 989,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 47,
+            "Province_State": "Anhui",
+            "Recovered": 663,
+            "Lat": 31.8257120511073,
+            "Long_": 117.226363790413,
+            "Deaths": 6
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 934,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 69,
+            "Province_State": "Jiangxi",
+            "Recovered": 645,
+            "Lat": 27.614008270636,
+            "Long_": 115.722093542185,
+            "Deaths": 1
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 833,
+            "Country_Region": "South Korea",
+            "OBJECTID": 24,
+            "Recovered": 18,
+            "Lat": 36.0,
+            "Long_": 128.0,
+            "Deaths": 8
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 755,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 74,
+            "Province_State": "Shandong",
+            "Recovered": 343,
+            "Lat": 36.3426714789712,
+            "Long_": 118.149838795037,
+            "Deaths": 5
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 691,
+            "Country_Region": "Others",
+            "OBJECTID": 82,
+            "Province_State": "\"Diamond Princess\" cruise ship",
+            "Recovered": 0,
+            "Lat": 35.4437,
+            "Long_": 139.638,
+            "Deaths": 3
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 631,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 34,
+            "Province_State": "Jiangsu",
+            "Recovered": 452,
+            "Lat": 32.9710980851278,
+            "Long_": 119.45501030983,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 575,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 76,
+            "Province_State": "Chongqing",
+            "Recovered": 335,
+            "Lat": 30.0571758751839,
+            "Long_": 107.87398583171,
+            "Deaths": 6
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 527,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 50,
+            "Province_State": "Sichuan",
+            "Recovered": 276,
+            "Lat": 30.6171383897493,
+            "Long_": 102.710322085654,
+            "Deaths": 3
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 480,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 80,
+            "Province_State": "Heilongjiang",
+            "Recovered": 227,
+            "Lat": 47.8619962256745,
+            "Long_": 127.761544149451,
+            "Deaths": 12
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 399,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 61,
+            "Province_State": "Beijing",
+            "Recovered": 198,
+            "Lat": 40.1823809324133,
+            "Long_": 116.414172956705,
+            "Deaths": 4
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 335,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 59,
+            "Province_State": "Shanghai",
+            "Recovered": 261,
+            "Lat": 31.2019853691089,
+            "Long_": 121.449111848821,
+            "Deaths": 3
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 311,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 78,
+            "Province_State": "Hebei",
+            "Recovered": 234,
+            "Lat": 38.0428,
+            "Long_": 114.5149,
+            "Deaths": 6
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 293,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 83,
+            "Province_State": "Fujian",
+            "Recovered": 183,
+            "Lat": 26.0788658351203,
+            "Long_": 117.987371739429,
+            "Deaths": 1
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 251,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 84,
+            "Province_State": "Guangxi",
+            "Recovered": 112,
+            "Lat": 23.8298403568635,
+            "Long_": 108.78812722508,
+            "Deaths": 2
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 245,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 32,
+            "Province_State": "Shaanxi",
+            "Recovered": 173,
+            "Lat": 35.1916533064219,
+            "Long_": 108.870143735105,
+            "Deaths": 1
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 230,
+            "Country_Region": "Italy",
+            "OBJECTID": 15,
+            "Recovered": 2,
+            "Lat": 43.0,
+            "Long_": 12.0,
+            "Deaths": 6
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 174,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 42,
+            "Province_State": "Yunnan",
+            "Recovered": 128,
+            "Lat": 24.9740090515417,
+            "Long_": 101.486994477533,
+            "Deaths": 2
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 168,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 35,
+            "Province_State": "Hainan",
+            "Recovered": 116,
+            "Lat": 19.1958639124575,
+            "Long_": 109.745335576195,
+            "Deaths": 5
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 159,
+            "Country_Region": "Japan",
+            "OBJECTID": 38,
+            "Recovered": 22,
+            "Lat": 36.0,
+            "Long_": 138.0,
+            "Deaths": 1
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 146,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 9,
+            "Province_State": "Guizhou",
+            "Recovered": 102,
+            "Lat": 26.8153610246946,
+            "Long_": 106.874783781561,
+            "Deaths": 2
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 135,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 86,
+            "Province_State": "Tianjin",
+            "Recovered": 87,
+            "Lat": 39.3053612117002,
+            "Long_": 117.322972903268,
+            "Deaths": 3
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 132,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 21,
+            "Province_State": "Shanxi",
+            "Recovered": 91,
+            "Lat": 37.5776849568384,
+            "Long_": 112.292191181538,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 121,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 39,
+            "Province_State": "Liaoning",
+            "Recovered": 80,
+            "Lat": 41.2956478642686,
+            "Long_": 122.60854186375,
+            "Deaths": 1
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 93,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 7,
+            "Province_State": "Jilin",
+            "Recovered": 60,
+            "Lat": 43.6661021395126,
+            "Long_": 126.192329763813,
+            "Deaths": 1
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 91,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 51,
+            "Province_State": "Gansu",
+            "Recovered": 78,
+            "Lat": 36.0611,
+            "Long_": 103.8343,
+            "Deaths": 2
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 89,
+            "Country_Region": "Singapore",
+            "OBJECTID": 81,
+            "Recovered": 51,
+            "Lat": 1.283333,
+            "Long_": 103.833333,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 79,
+            "Country_Region": "Hong Kong",
+            "OBJECTID": 8,
+            "Province_State": "Hong Kong",
+            "Recovered": 19,
+            "Lat": 22.3,
+            "Long_": 114.2,
+            "Deaths": 2
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 76,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 3,
+            "Province_State": "Xinjiang",
+            "Recovered": 30,
+            "Lat": 41.1128513419168,
+            "Long_": 85.240102435218,
+            "Deaths": 2
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 75,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 6,
+            "Province_State": "Inner Mongolia",
+            "Recovered": 34,
+            "Lat": 44.0935009913267,
+            "Long_": 113.944789458154,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 71,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 48,
+            "Province_State": "Ningxia",
+            "Recovered": 58,
+            "Lat": 37.2692274353319,
+            "Long_": 106.165455205247,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 61,
+            "Country_Region": "Iran",
+            "OBJECTID": 63,
+            "Recovered": 0,
+            "Lat": 32.0,
+            "Long_": 53.0,
+            "Deaths": 12
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 35,
+            "Country_Region": "Thailand",
+            "OBJECTID": 10,
+            "Recovered": 21,
+            "Lat": 15.0,
+            "Long_": 101.0,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 30,
+            "Country_Region": "Taiwan",
+            "OBJECTID": 30,
+            "Province_State": "Taiwan",
+            "Recovered": 5,
+            "Lat": 23.7,
+            "Long_": 121.0,
+            "Deaths": 1
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 22,
+            "Country_Region": "Malaysia",
+            "OBJECTID": 16,
+            "Recovered": 18,
+            "Lat": 2.5,
+            "Long_": 112.5,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 18,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 29,
+            "Province_State": "Qinghai",
+            "Recovered": 18,
+            "Lat": 35.7452031801411,
+            "Long_": 95.9955784711286,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 16,
+            "Country_Region": "Germany",
+            "OBJECTID": 85,
+            "Recovered": 14,
+            "Lat": 51.0,
+            "Long_": 9.0,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 16,
+            "Country_Region": "Vietnam",
+            "OBJECTID": 11,
+            "Recovered": 14,
+            "Lat": 16.0,
+            "Long_": 108.0,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 13,
+            "Country_Region": "UK",
+            "OBJECTID": 88,
+            "Recovered": 8,
+            "Lat": 55.0,
+            "Long_": -3.0,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 13,
+            "Country_Region": "United Arab Emirates",
+            "OBJECTID": 64,
+            "Recovered": 4,
+            "Lat": 24.0,
+            "Long_": 54.0,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 12,
+            "Country_Region": "France",
+            "OBJECTID": 70,
+            "Recovered": 4,
+            "Lat": 47.0,
+            "Long_": 2.0,
+            "Deaths": 1
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 11,
+            "Country_Region": "US",
+            "OBJECTID": 17,
+            "Province_State": "Omaha, NE (From Diamond Princess)",
+            "Recovered": 0,
+            "Lat": 41.2545,
+            "Long_": -95.9758,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 10,
+            "Country_Region": "Macau",
+            "OBJECTID": 25,
+            "Province_State": "Macau",
+            "Recovered": 6,
+            "Lat": 22.166667,
+            "Long_": 113.55,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 7,
+            "Country_Region": "Australia",
+            "OBJECTID": 49,
+            "Province_State": "From Diamond Princess",
+            "Recovered": 0,
+            "Lat": 35.4437,
+            "Long_": 139.638,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 6,
+            "Country_Region": "Canada",
+            "OBJECTID": 31,
+            "Province_State": "British Columbia",
+            "Recovered": 0,
+            "Lat": 49.2827,
+            "Long_": -123.1207,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 5,
+            "Country_Region": "Australia",
+            "OBJECTID": 67,
+            "Province_State": "Queensland",
+            "Recovered": 1,
+            "Lat": -28.0167,
+            "Long_": 153.4,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 5,
+            "Country_Region": "US",
+            "OBJECTID": 45,
+            "Province_State": "Travis, CA (From Diamond Princess)",
+            "Recovered": 0,
+            "Lat": 38.2721,
+            "Long_": -121.9399,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 4,
+            "Country_Region": "Australia",
+            "OBJECTID": 44,
+            "Province_State": "New South Wales",
+            "Recovered": 4,
+            "Lat": -33.8688,
+            "Long_": 151.2093,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 4,
+            "Country_Region": "Australia",
+            "OBJECTID": 19,
+            "Province_State": "Victoria",
+            "Recovered": 4,
+            "Lat": -37.8136,
+            "Long_": 144.9631,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 3,
+            "Country_Region": "Canada",
+            "OBJECTID": 41,
+            "Province_State": "Toronto, ON",
+            "Recovered": 2,
+            "Lat": 43.6532,
+            "Long_": -79.3832,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 3,
+            "Country_Region": "India",
+            "OBJECTID": 28,
+            "Recovered": 3,
+            "Lat": 21.0,
+            "Long_": 78.0,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 3,
+            "Country_Region": "Kuwait",
+            "OBJECTID": 77,
+            "Recovered": 0,
+            "Lat": 29.3117,
+            "Long_": 47.4818,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 3,
+            "Country_Region": "Philippines",
+            "OBJECTID": 43,
+            "Recovered": 1,
+            "Lat": 13.0,
+            "Long_": 122.0,
+            "Deaths": 1
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 2,
+            "Country_Region": "Australia",
+            "OBJECTID": 53,
+            "Province_State": "South Australia",
+            "Recovered": 2,
+            "Lat": -34.9285,
+            "Long_": 138.6007,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 2,
+            "Country_Region": "Oman",
+            "OBJECTID": 72,
+            "Recovered": 0,
+            "Lat": 21.4735,
+            "Long_": 55.9754,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 2,
+            "Country_Region": "Russia",
+            "OBJECTID": 22,
+            "Recovered": 2,
+            "Lat": 60.0,
+            "Long_": 90.0,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 2,
+            "Country_Region": "Spain",
+            "OBJECTID": 14,
+            "Recovered": 2,
+            "Lat": 40.0,
+            "Long_": -4.0,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 2,
+            "Country_Region": "US",
+            "OBJECTID": 40,
+            "Province_State": "Chicago, IL",
+            "Recovered": 2,
+            "Lat": 41.8781,
+            "Long_": -87.6298,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 2,
+            "Country_Region": "US",
+            "OBJECTID": 71,
+            "Province_State": "Lackland, TX (From Diamond Princess)",
+            "Recovered": 0,
+            "Lat": 29.3829,
+            "Long_": -98.6134,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 2,
+            "Country_Region": "US",
+            "OBJECTID": 55,
+            "Province_State": "San Benito, CA",
+            "Recovered": 0,
+            "Lat": 36.5761,
+            "Long_": -120.9876,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 2,
+            "Country_Region": "US",
+            "OBJECTID": 79,
+            "Province_State": "San Diego County, CA",
+            "Recovered": 1,
+            "Lat": 32.7157,
+            "Long_": -117.1611,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 2,
+            "Country_Region": "US",
+            "OBJECTID": 20,
+            "Province_State": "Santa Clara, CA",
+            "Recovered": 1,
+            "Lat": 37.3541,
+            "Long_": -121.9552,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "Afghanistan",
+            "OBJECTID": 37,
+            "Recovered": 0,
+            "Lat": 33.9391,
+            "Long_": 67.71,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "Bahrain",
+            "OBJECTID": 75,
+            "Recovered": 0,
+            "Lat": 26.0667,
+            "Long_": 50.5577,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "Belgium",
+            "OBJECTID": 68,
+            "Recovered": 1,
+            "Lat": 50.8333,
+            "Long_": 4.0,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "Cambodia",
+            "OBJECTID": 58,
+            "Recovered": 1,
+            "Lat": 11.55,
+            "Long_": 104.916667,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "Canada",
+            "OBJECTID": 13,
+            "Province_State": "London, ON",
+            "Recovered": 1,
+            "Lat": 42.9849,
+            "Long_": -81.2453,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "Egypt",
+            "OBJECTID": 60,
+            "Recovered": 0,
+            "Lat": 26.0,
+            "Long_": 30.0,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "Finland",
+            "OBJECTID": 1,
+            "Recovered": 1,
+            "Lat": 64.0,
+            "Long_": 26.0,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "Iraq",
+            "OBJECTID": 62,
+            "Recovered": 0,
+            "Lat": 33.2232,
+            "Long_": 43.6793,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "Israel",
+            "OBJECTID": 87,
+            "Province_State": "From Diamond Princess",
+            "Recovered": 0,
+            "Lat": 31.0461,
+            "Long_": 34.8516,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "Lebanon",
+            "OBJECTID": 89,
+            "Recovered": 0,
+            "Lat": 33.8547,
+            "Long_": 35.8623,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "Mainland China",
+            "OBJECTID": 54,
+            "Province_State": "Tibet",
+            "Recovered": 1,
+            "Lat": 31.6927165373017,
+            "Long_": 88.0924318966888,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "Nepal",
+            "OBJECTID": 4,
+            "Recovered": 1,
+            "Lat": 28.166667,
+            "Long_": 84.25,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "Sri Lanka",
+            "OBJECTID": 23,
+            "Recovered": 1,
+            "Lat": 7.0,
+            "Long_": 81.0,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "Sweden",
+            "OBJECTID": 27,
+            "Recovered": 0,
+            "Lat": 63.0,
+            "Long_": 16.0,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "US",
+            "OBJECTID": 33,
+            "Province_State": "Boston, MA",
+            "Recovered": 0,
+            "Lat": 42.3601,
+            "Long_": -71.0589,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "US",
+            "OBJECTID": 46,
+            "Province_State": "Humboldt County, CA",
+            "Recovered": 0,
+            "Lat": 40.745,
+            "Long_": -123.8695,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "US",
+            "OBJECTID": 65,
+            "Province_State": "Los Angeles, CA",
+            "Recovered": 0,
+            "Lat": 34.0522,
+            "Long_": -118.2437,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "US",
+            "OBJECTID": 2,
+            "Province_State": "Madison, WI",
+            "Recovered": 0,
+            "Lat": 43.0731,
+            "Long_": -89.4012,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "US",
+            "OBJECTID": 57,
+            "Province_State": "Orange, CA",
+            "Recovered": 0,
+            "Lat": 33.7879,
+            "Long_": -117.8531,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "US",
+            "OBJECTID": 26,
+            "Province_State": "Sacramento County, CA",
+            "Recovered": 0,
+            "Lat": 38.4747,
+            "Long_": -121.3542,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "US",
+            "OBJECTID": 12,
+            "Province_State": "San Antonio, TX",
+            "Recovered": 0,
+            "Lat": 29.4241,
+            "Long_": -98.4936,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "US",
+            "OBJECTID": 18,
+            "Province_State": "Seattle, WA",
+            "Recovered": 1,
+            "Lat": 47.6062,
+            "Long_": -122.3321,
+            "Deaths": 0
+            },
+            "isSelected": false
+            },
+            {
+            "attributes": {
+            "Confirmed": 1,
+            "Country_Region": "US",
+            "OBJECTID": 52,
+            "Province_State": "Tempe, AZ",
+            "Recovered": 0,
+            "Lat": 33.4255,
+            "Long_": -111.94,
+            "Deaths": 0
+            },
+            "isSelected": false
+            }
+            ]
+            }
+        </value>
+    </entry>
+</defaultsMap>

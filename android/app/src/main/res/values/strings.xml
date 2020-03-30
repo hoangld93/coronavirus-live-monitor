@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Coronavirus Live Monitor</string>
+    <string name="region_title">Country/Region</string>
+    <string name="confirmed">Confirmed</string>confirmed
+    <string name="recovered">Recovered</string>
+    <string name="notification_confirmed">Has %1$d new confirmed cases in %2$s</string>
+    <string name="notification_recovered">Has %1$d new recovered cases in %2$s</string>
+    <string name="notification_rip">Has %1$d new R.I.P cases in %2$s</string>
+</resources>
